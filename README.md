@@ -52,7 +52,7 @@ Here is the complete visual breakdown of the custom logic components designed fo
 
 ---
 
-## 🛠️ What Has Been Implemented (What You Did)
+## 🛠️ What Has Been Implemented
 
 This project successfully constructs a multi-layered hardware simulation of a complete computer starting from the lowest level:
 
