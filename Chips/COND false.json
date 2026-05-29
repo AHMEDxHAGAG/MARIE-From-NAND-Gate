@@ -1,0 +1,27 @@
+{
+  "Name": "COND false",
+  "Colour": "#9386F6",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "gt",
+      "ID": 270821034,
+      "PositionY": 1.46296322,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "eq",
+      "ID": 916814169,
+      "PositionY": 0.777778,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "lt",
+      "ID": 270163262,
+      "PositionY": 0.148147941,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

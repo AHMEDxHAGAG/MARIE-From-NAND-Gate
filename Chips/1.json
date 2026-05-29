@@ -1,0 +1,51 @@
+{
+  "Name": "1",
+  "Colour": "#12D412",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 769656350,
+      "PositionY": 0.259259343,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "NOT",
+      "ID": 405494292,
+      "Points": [
+        {
+          "X": 4.06481552,
+          "Y": 0.259259343
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 405494292,
+        "PinID": 1
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 769656350
+      },
+      "WirePoints": [
+        {
+          "X": 4.61481571,
+          "Y": 0.259259343
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.259259343
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}

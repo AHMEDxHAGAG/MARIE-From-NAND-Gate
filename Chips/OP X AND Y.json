@@ -1,0 +1,45 @@
+{
+  "Name": "OP X AND Y",
+  "Colour": "#6B79A2",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "zx",
+      "ID": 1496224981,
+      "PositionY": 3.12037039,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "nx",
+      "ID": 1314332908,
+      "PositionY": 2.33333349,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "zy",
+      "ID": 1724692334,
+      "PositionY": 1.564815,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "ny",
+      "ID": 1459115456,
+      "PositionY": 0.8611113,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "f",
+      "ID": 1969185043,
+      "PositionY": 0.175926089,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "no",
+      "ID": 1230864791,
+      "PositionY": -0.5833334,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

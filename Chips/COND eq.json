@@ -1,0 +1,63 @@
+{
+  "Name": "COND eq",
+  "Colour": "#6F8A57",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "gt",
+      "ID": 1517180578,
+      "PositionY": 2.95370388,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "eq",
+      "ID": 2037398064,
+      "PositionY": 2.05555558,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "lt",
+      "ID": 1007085761,
+      "PositionY": 1.111111,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "1",
+      "ID": 621523038,
+      "Points": [
+        {
+          "X": 6.666667,
+          "Y": 1.91666663
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 621523038,
+        "PinID": 769656350
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 2037398064
+      },
+      "WirePoints": [
+        {
+          "X": 7.016667,
+          "Y": 1.91666663
+        },
+        {
+          "X": 7.837778,
+          "Y": 2.05555558
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}

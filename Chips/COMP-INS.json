@@ -1,0 +1,51 @@
+{
+  "Name": "COMP-INS",
+  "Colour": "#F1429C",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "ci",
+      "ID": 176239489,
+      "PositionY": 0.768518448,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "1",
+      "ID": 1192882343,
+      "Points": [
+        {
+          "X": 6.5092597,
+          "Y": 0.768518448
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1192882343,
+        "PinID": 769656350
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 176239489
+      },
+      "WirePoints": [
+        {
+          "X": 6.85925961,
+          "Y": 0.768518448
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.768518448
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}

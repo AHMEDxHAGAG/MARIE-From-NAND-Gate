@@ -1,0 +1,27 @@
+{
+  "Name": "DST NULL",
+  "Colour": "#7D835A",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "dst2",
+      "ID": 1778089874,
+      "PositionY": 1.3611114,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "dst1",
+      "ID": 1680800962,
+      "PositionY": 0.712962747,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "dst0",
+      "ID": 1632753361,
+      "PositionY": 0.1111114,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

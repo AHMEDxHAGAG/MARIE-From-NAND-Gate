@@ -1,0 +1,21 @@
+{
+  "Name": "Y=d2",
+  "Colour": "#1D4119",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "src1 ram",
+      "ID": 2526378,
+      "PositionY": 0.546296239,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "src1",
+      "ID": 186704908,
+      "PositionY": -0.0555557,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

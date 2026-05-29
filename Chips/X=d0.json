@@ -1,0 +1,15 @@
+{
+  "Name": "X=d0",
+  "Colour": "#255845",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "src0",
+      "ID": 2115749481,
+      "PositionY": 0.379629731,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

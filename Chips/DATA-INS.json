@@ -1,0 +1,15 @@
+{
+  "Name": "DATA-INS",
+  "Colour": "#F1429C",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "ci",
+      "ID": 176239489,
+      "PositionY": 0.768518448,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

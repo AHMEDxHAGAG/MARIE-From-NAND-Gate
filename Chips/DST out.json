@@ -1,0 +1,86 @@
+{
+  "Name": "DST out",
+  "Colour": "#7D835A",
+  "InputPins": [],
+  "OutputPins": [
+    {
+      "Name": "dst2",
+      "ID": 1778089874,
+      "PositionY": 1.3611114,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "dst1",
+      "ID": 1680800962,
+      "PositionY": 0.712962747,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "dst0",
+      "ID": 1632753361,
+      "PositionY": 0.1111114,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "1",
+      "ID": 1666238207,
+      "Points": [
+        {
+          "X": 6.287038,
+          "Y": 0.7222223
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1666238207,
+        "PinID": 769656350
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 1680800962
+      },
+      "WirePoints": [
+        {
+          "X": 6.63703775,
+          "Y": 0.7222223
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.712962747
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1666238207,
+        "PinID": 769656350
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 1632753361
+      },
+      "WirePoints": [
+        {
+          "X": 6.63703775,
+          "Y": 0.7222223
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.1111114
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}
